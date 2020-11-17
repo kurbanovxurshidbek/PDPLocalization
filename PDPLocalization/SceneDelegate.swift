@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  PDPLocalization
 //
-//  Created by KHURSHIDBEK on 2020/11/13.
+//  Created by KHURSHIDBEK
 //
 
 import UIKit
